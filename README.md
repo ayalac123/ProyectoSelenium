@@ -1,4 +1,10 @@
 # ProyectoSelenium
+
+#Ejecucion
+Primeramente se debera descargar el proyecto dentro de una carpeta y abrirlo en un editor de preferencia intelly.
+Para su ejecucion se necesitaria ir a la carpeta SRC->TEST->JAVA->RUNNERTEST y darle click derecho para generar el runner test 
+ya que de esta forma se toman los dos escenarios a evaluar de los features
+#Evidencias
 Para ver los reportes paso a paso de Cucumber se debe estar en la carpeta target ->cucumber-report.html
 y derigirse a la plataforma o navegador a su preferencia sea chrome edge, o firefox para ver las evidencias
 #Data
